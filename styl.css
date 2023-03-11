@@ -1,0 +1,35 @@
+.main{
+    /* border: 2px solid red; */
+    display: flex;
+    height: 85vh ;
+    margin-top: 45px; 
+    justify-content: center;
+
+    /* padding-top: 80px; */
+
+}
+.pic{
+    width: 20%;
+     padding: 60px;
+    background-image: url(./CHG.jpeg);
+    background-position:60% 60%;
+}
+.text{
+    width: 20%;
+     padding: 60px;
+     font-style: inherit;
+     font-size: 18px;
+     background-color: #fff;
+}
+#button{
+    width: 50%;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #008000;
+    padding: 10px 10px;
+    border-style: none  ;
+}
+body{  
+    background-color: #ECDFF2;
+    }
+
